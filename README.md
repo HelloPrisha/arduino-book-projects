@@ -1,7 +1,4 @@
-# Arduino Book Projects
-
-This repository contains the chapter-wise Arduino code from the book  
-**"Arduino Projects  Think Outside the Board"** by Prisha R. Upadhyay.  
+# Arduino Projects From Book "Think Outside the Board"  by Prisha R. Upadhyay
 
 Each folder corresponds to a chapter in the book, with the `.ino` file(s) you can open directly in the Arduino IDE.
 
