@@ -1,10 +1,7 @@
 # Arduino Book Projects
-Chapter-wise **Arduino code for the book "Think Outside The Board" by Prisha R. Upadhyay
-**
-
 
 This repository contains the chapter-wise Arduino code from the book  
-**"Arduino Projects That Think Outside the Box"** by Prisha Upadhyay.  
+**"Arduino Projects  Think Outside the Board"** by Prisha R. Upadhyay.  
 
 Each folder corresponds to a chapter in the book, with the `.ino` file(s) you can open directly in the Arduino IDE.
 
@@ -12,7 +9,7 @@ Each folder corresponds to a chapter in the book, with the `.ino` file(s) you ca
 
 ## 📂 Chapters
 
-- Chapter 01: Arduino Clinostat]
+- Chapter 01: Arduino Clinostat
 - Chapter 02: Smart Doorbell System
 - Chapter 03: Rocket Launch Countdown
 - Chapter 04: Smart Trash Can  
